@@ -1,0 +1,11 @@
+Labor Force Status Definitions:
+
+Overtime - Working 50 hours or more per week.
+Full-Time - Working between 36 and 49 hours per week.
+Part-Time - Working 35 hours or less per week.
+Unemployed - On unemployment insurance or seeking work while not working.
+Taking care of home - Not working for pay and taking care of the house/family.
+School - Not working for pay because they are attending school.
+Retired - Not working for pay due to retirement.
+Other - Not working for pay for other reasons not included in this list.
+Disabled - Not working for pay due to a disability.
