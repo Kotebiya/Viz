@@ -1,6 +1,10 @@
 # UNINS_N_HPSA
 
-Description: Percent of the population without health insurance in the 12 months, and local areas where there is relative shortage of primary care physicians.
+Description: The following contains a detailed linkage for the sources of data. The following sub-repository also contains import code for importing the data sources into SAS and out into DBF formats.
+
+The Maps: Percent of the population without health insurance in the 12 months, and local areas where there is relative shortage of primary care physicians.
+
+
 
 Source: Google Streets Basemap (Tile Level 10); Census 2014 TIGER Shapefiles (Census Tracts); American Community Survey, 2010-2014 Summary File; Health Professional Shortage Areas - Accessed on 2016/09/05
 
