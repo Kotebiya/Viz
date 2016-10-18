@@ -13,3 +13,8 @@ Source: U.S. Geological Survey, National Atlas of the United States (
 [113th Congress](https://catalog.data.gov/dataset/usgs-small-scale-dataset-1-1000000-scale-congressional-districts-of-the-united-states-113th-cfa676), 
 [114th Congress](https://catalog.data.gov/dataset/usgs-1-1000000-scale-congressional-districts-of-the-united-states-114th-congress-201504-shapef) )
 
+[2014 National Cartographic Boundary Shapefile](http://www2.census.gov/geo/tiger/GENZ2014/shp/)
+
+[2014 State TIGER Shapefiles](http://www2.census.gov/geo/tiger/TIGER2014/STATE/)
+
+[iPUMS World Country Shapefile](https://international.ipums.org/international/gis.shtml)
